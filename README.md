@@ -1,4 +1,3 @@
-
 # Blog APP
 
 ## Overview
